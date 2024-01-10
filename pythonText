@@ -1,4 +1,2 @@
-Manual change online.
-Little test.
-
-text test
+local function Hello():
+  print("hello").
